@@ -65,5 +65,3 @@ package com.batsman.record;
 		}
 
 	}
-
-}
